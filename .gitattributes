@@ -1,3 +1,0 @@
-gpt_tweets.csv filter=lfs diff=lfs merge=lfs -text
-sentiment_16k.csv filter=lfs diff=lfs merge=lfs -text
-gpt_tweets_unlabeled.csv filter=lfs diff=lfs merge=lfs -text
